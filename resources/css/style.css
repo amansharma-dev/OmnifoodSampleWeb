@@ -232,7 +232,7 @@ header{
 }
 .logo-black{
     display:none;
-     height: 50px;
+    height: 50px;
     width: auto;
     float: left;
     margin: 5px 0;
@@ -618,6 +618,7 @@ footer{
 .footer-social-links li{
     display: inline-block;
     margin-right: 20px;
+ 
 }
 
 .footer-social-links{

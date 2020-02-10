@@ -3,21 +3,22 @@
 @media only screen and (max-width: 1200px){
 
     
+/*
     .hero-text-box {
     
         width: 100%;
         padding: 0 2%;
 
 }
-
+*/
     .row{
         padding: 0 2%;
     }
 
-    
-    
 }
 
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 /*Small tablets to big tablets, from 768px to 1023px*/
 @media only screen and (max-width: 1023px){
@@ -66,6 +67,10 @@
     
 }
 
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+
 /* small phones to small tablets: from 481 to 761px */
 @media only screen and (max-width: 767px){
 
@@ -84,16 +89,16 @@
         width: 100%;
         margin: 0 0 4% 0;
     }
-    
+    /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     
     
     /*after making responsive navigation section make sure to un-comment .main-nav{display:none} */
     
-
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     .main-nav{
         display: none;
     }
-
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
     /* responsive navigation on smaller screen less then 767px */
     
@@ -128,7 +133,7 @@
     .sticky .main-nav li a:link,
     .sticky .main-nav li a:visited{
         padding: 10px 0px;
-/*    color:#3DDC84;*/
+
 }
 
 
@@ -149,15 +154,8 @@
         margin-left: 0;
     }
     
-    
-
-        
-
     .works-step{margin-bottom: 20px;}
-/*
-    .works-step:last-of-type{
-        margin-bottom: 10px;}
-*/
+
     
     .steps-box:first-child{
         text-align: center;
@@ -190,10 +188,12 @@
 
 }
 
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 /* Small phones from 0 to 480px */
 
+/*
 @media only screen and (max-width: 480px){
     
     section{ padding: 25px 0;}
     .contact-form{width: 100%;}
-}
+}*/
